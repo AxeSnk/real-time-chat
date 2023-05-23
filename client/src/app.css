@@ -45,6 +45,7 @@
 .connection_message {
   width: 400px;
   text-align: center;
+  margin-top: 15px;
 }
 
 .message {
